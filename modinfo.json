@@ -1,12 +1,12 @@
 [
   {
     "type": "MOD_INFO",
-    "ident": "Animatronics",
-    "name": "Animatronic Monsters",
-    "authors": [ "Lanceo90" ],
-    "description": "Adds a chain of bankrupt pizzerias, with still functioning animatronics inside.",
+    "ident": "Animatronicsv2",
+    "name": "Animatronic Monsters Redux",
+    "authors": [ "Chronakai" ],
+    "description": "Adds a certain chain of bankrupt pizzerias, with a colorful cast of robot animals to try and kill you.",
     "category": "buildings",
     "dependencies": [ "dda" ],
-    "obsolete": true
+    "obsolete": false
   }
 ]

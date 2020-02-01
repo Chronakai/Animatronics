@@ -1,0 +1,42 @@
+  {
+    "id": "textbook_anim_repair",
+    "type": "BOOK",
+    "name": { "str": "Fazbear Entertainment Maintenance and Repair Manual", "str_pl": "copies of Fazbear Entertainment Maintenance and Repair Manual" },
+    "description": "A hefty binder with laminated sheets, detailing reprogramming and maintenance of animatronic endoskeletons and their 'characters'.  Jeez, looks like this hasn't even been opened since it was bound.  This might explain a few things.",
+    "weight": "2063 g",
+    "volume": "2 L",
+    "price": 1000,
+    "price_postapoc": 1000,
+    "bashing": 8,
+    "material": [ "paper" ],
+    "symbol": "?",
+    "color": "blue",
+    "skill": "electronics",
+    "required_level": 3,
+    "max_level": 5,
+    "intelligence": 11,
+    "time": 55,
+    "fun": 0
+  },
+  {
+    "id": "mag_afton_notes",
+    "type": "BOOK",
+    "name": { "str": "Worn Notebook" },
+	"//" : "oi feck off from my memoirs ya cunt"
+    "description": "A well-worn and slightly bloody notebook with a small Australian flag sticker on the front.  You feel uneasy holding it.  Even a cursory glance at the contents fills you with existential horror and deep-seated disgust, but it may have some unforseen insight into...  Creative manipulation of formative-age organic tissue in conjunction with bionics...?",
+    "weight": "45 g",
+    "volume": "250 ml",
+    "price": 1000,
+    "price_postapoc": 1000,
+    "material": [ "paper" ],
+    "symbol": "?",
+    "color": "red",
+    "skill": "electronics",
+	"required_level_level": 4,
+    "max_level": 5,
+    "intelligence": 5,
+    "time": 30,
+    "fun": -7
+	"//" : "todo: this one will have recipes for reactivating/reprogramming special bots. Brotip: collect some child zombie corpses. also todo: make this one copy per save somehow"
+
+  },
